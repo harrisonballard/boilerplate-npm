@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Harrison Ballard",
+	"description": "FCC project to get more familiar with node.js and npm"
 	"dependencies": {
 		"express": "^4.14.0"
 	},
